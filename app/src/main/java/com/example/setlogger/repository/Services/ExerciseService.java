@@ -11,6 +11,7 @@ import java.util.List;
 public class ExerciseService implements BasicCRUDInterface<ExerciseDTO> {
 
     private ExerciseDAO exerciseDAO;
+    private static ExerciseService instance;
 
     public ExerciseService(DatabaseContainer databaseContainer) {
         this.exerciseDAO = databaseContainer.getDB().exerciseDAO();
