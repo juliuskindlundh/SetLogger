@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SetLogger</string>
+
+    <string name="main_button">H</string>
+    <string name="exercise_manager_button">EM</string>
+    <string name="buffered_sets_button">BS</string>
+    <string name="statistics_button">S</string>
+
+    <string name="reset_exercise_button">Reset</string>
+    <string name="save_exercise_button">Save</string>
+    <string name="delete_exercise_button">Delete</string>
+    <string name="stop_edit_button">Unselect</string>
+    <string name="exercise_placeholder">Exercise name</string>
+    <string name="edit_exercise_button">Edit</string>
+    <string name="kg">kg</string>
+    <string name="Weight">Weight</string>
+    <string name="Exercise">Exercise</string>
+    <string name="Reps">Reps</string>
+
+    <string name="commit_all">Commit all</string>
+    <string name="commit_one">Commit one</string>
+</resources>
